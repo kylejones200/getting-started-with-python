@@ -1,7 +1,7 @@
 # Getting started with Python
 
-**Published:** 2023-06-20
-**Medium:** [https://medium.com/@kyle-t-jones/getting-started-with-python-62f689a0fb2c](https://medium.com/@kyle-t-jones/getting-started-with-python-62f689a0fb2c)
+Published: 2023-06-20
+Medium: [https://medium.com/@kyle-t-jones/getting-started-with-python-62f689a0fb2c](https://medium.com/@kyle-t-jones/getting-started-with-python-62f689a0fb2c)
 
 ## About
 
